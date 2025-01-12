@@ -1,7 +1,7 @@
 // src/App.js
 import React, { useEffect } from "react";
-import TaskForm from "./components/Task/TaskForm";
-import TaskList from "./components/Task/TaskList";
+import TaskForm from "../components/Task/TaskForm";
+import TaskList from "../components/Task/TaskList";
 import "./App.css";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
